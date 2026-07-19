@@ -1,0 +1,13 @@
+{
+  "name": "cleanup-marketplace",
+  "owner": {
+    "name": "Ze2reda"
+  },
+  "plugins": [
+    {
+      "name": "cleanup",
+      "source": "./plugins/cleanup",
+      "description": "Closes tabs, clears cache, and removes scratch files created during a session."
+    }
+  ]
+}
