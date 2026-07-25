@@ -73,8 +73,8 @@ anything that needs your manual follow-up.
 
 ```
 .claude-plugin/
-├── marketplace.json   ← the marketplace catalog (lists this one plugin)
-└── plugin.json        ← the plugin manifest
+├── marketplace.json
+└── plugin.json 
 skills/
 ├── full/SKILL.md
 ├── dry-run/SKILL.md
