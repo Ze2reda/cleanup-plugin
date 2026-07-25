@@ -1,5 +1,0 @@
-{
-  "name": "cleanup",
-  "description": "Closes tabs, clears cache, and removes scratch files created during a session.",
-  "version": "1.0.0"
-}
