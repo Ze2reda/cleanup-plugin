@@ -1,13 +1,15 @@
 {
   "name": "cleanup-marketplace",
+  "description": "A tidy-up-after-yourself tool for Claude: closes tabs, clears cache, and removes scratch files created during a session.",
   "owner": {
     "name": "Ze2reda"
   },
   "plugins": [
     {
       "name": "cleanup",
-      "source": "./plugins/cleanup",
-      "description": "Closes tabs, clears cache, and removes scratch files created during a session."
+      "source": "./",
+      "description": "Closes tabs, clears cache, and removes scratch files created during a session.",
+      "author": { "name": "Ze2reda" }
     }
   ]
 }
