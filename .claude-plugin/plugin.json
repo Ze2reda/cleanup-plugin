@@ -1,0 +1,9 @@
+{
+  "name": "cleanup",
+  "description": "Closes tabs, clears cache, and removes scratch files created during a session.",
+  "author": { "name": "Ze2reda" },
+  "homepage": "https://github.com/Ze2reda/cleanup-plugin",
+  "repository": "https://github.com/Ze2reda/cleanup-plugin",
+  "license": "MIT",
+  "keywords": ["cleanup", "tabs", "cache", "housekeeping"]
+}
